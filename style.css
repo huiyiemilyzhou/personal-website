@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.profile-picture{
+    /* makes it circle */
+    /* border-radius: 50%; */
+    width: 100%;
+    height: auto;
+}
+
+.title{
+    margin-top: 40%;
+    font-family: "Inconsolata", monospace;
+}
+
+.sub-title{
+    font-size: 20px;
+    font-family: "Inconsolata", monospace;
+}
