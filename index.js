@@ -9,12 +9,9 @@ if(today.getHours() > 18){
     for(let word of words){
         word.style.color = "#FFFFFF";
     }
-
     nav.classList.remove("navbar-light");
     nav.classList.remove("bg-light")
     nav.classList.add("bg-dark")
     nav.classList.add("navbar-dark");
-
-
 }
 
