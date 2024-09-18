@@ -14,7 +14,7 @@ body{
 }
 .profile-picture{
     /* makes it circle */
-    /* border-radius: 50%; */
+    border-radius: 50%;
     width: 100%;
     height: auto;
 }
@@ -37,4 +37,8 @@ body{
 
 .about h3{
     font-size: 20px;
+}
+
+.about-spacing{
+    margin-top: -5%;
 }
