@@ -42,3 +42,14 @@ body{
 .about-spacing{
     margin-top: -5%;
 }
+
+.links{
+    text-align: center;
+    font-family: "Inconsolata", monospace;
+    margin-top: 10%;
+    margin-bottom: 20%;
+}
+
+.links h3{
+    font-size: 20px;
+}
